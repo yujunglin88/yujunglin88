@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @yujunglin88
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning software engeneering in VUW
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jeff!
+- 🌱 I’m currently learning software engeneering in Victoria University of Wellington
+- 💞️ I’m looking to collaborate on CRISiSLab Earthquake Early Warning System 
 
 <!---
 yujunglin88/yujunglin88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
