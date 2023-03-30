@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeff!
-- 🌱 I’m currently learning software engeneering in Victoria University of Wellington
+- 🌱 I’m currently learning software engineering in Victoria University of Wellington
 - 💞️ I’m looking to collaborate on CRISiSLab Earthquake Early Warning System 
 
 <!---
