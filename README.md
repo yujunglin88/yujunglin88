@@ -44,7 +44,7 @@
 <!--- links --->
 [CRISiSLab]: https://www.crisislab.org.nz/
 [EEW]: https://www.crisislab.org.nz/eew
-[website]: https://pointerpointer.com/
+[website]: https://jeff-lin.me/
 [email]: mailto:yujunglin88@gmail.com
 [linkedin]: https://www.linkedin.com/in/jeff-lin-a92428267/
 [github]: https://github.com/yujunglin88/
